@@ -51,6 +51,16 @@ This project addresses critical business questions:
 
 ---
 
+## 📐 Analytical Methodology
+
+The analysis was conducted using descriptive statistical modeling to evaluate customer experience performance across service touchpoints.
+
+Service gap scores were calculated by comparing average service ratings between satisfied passengers (Satisfaction = 1) and dissatisfied passengers (Satisfaction = 0). The mean difference between these groups was used to identify service attributes with the highest impact on overall customer experience.
+
+This approach functions as a behavioral impact analysis, showing which operational and service quality factors most strongly influence passenger satisfaction outcomes.
+
+---
+
 ## 📌 Key Performance Metrics
 
 **Overall Performance**
