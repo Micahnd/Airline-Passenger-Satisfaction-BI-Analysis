@@ -34,7 +34,7 @@ This section contains all visual assets supporting the dashboard analysis. Each 
 
 [![Watch Dashboard Demo](https://img.youtube.com/vi/ii_OXf2OFyA/0.jpg)](https://youtu.be/ii_OXf2OFyA?si=mSaDUYAxAkXX6O4U)
 
-*Note:* This video shows interactive slicer usage, age-segment filtering, and dynamic updates reflecting service gap changes.
+*Note:* This video shows interactive slicer usage, age-segment filtering and dynamic updates reflecting service gap changes.
 
 
 
