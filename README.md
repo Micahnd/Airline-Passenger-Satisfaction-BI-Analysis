@@ -9,6 +9,10 @@ The objective was to identify key satisfaction drivers, evaluate operational per
 Dynamic slicers, pivot tables, and service gap analysis enable scenario-based exploration across passenger demographics, travel behavior, and service touchpoints.
 
 ---
+## 📸 Dashboard Overview
+
+<p align="center"> <img src="images/dashboard_full_overview.jpeg" width="900"/>
+</p>
 
 ## 🎯 Business Problem
 
