@@ -4,19 +4,43 @@
 
 This is an interactive Business Intelligence dashboard built using **Microsoft Excel** to analyze passenger satisfaction patterns across **129,880 passenger records**.  
 
-The objective was to identify key satisfaction drivers, evaluate operational performance impacts, and provide actionable insights for customer experience optimization.  
+The objective was to identify key satisfaction drivers, evaluate operational performance impacts and provide actionable insights for customer experience optimization.  
 
-Dynamic slicers, pivot tables, and service gap analysis enable scenario-based exploration across passenger demographics, travel behavior, and service touchpoints.
+Dynamic slicers, pivot tables and service gap analysis enable scenario-based exploration across passenger demographics, travel behavior and service touchpoints.
 
 ---
-## 📸 Dashboard Overview
+## 📸 Visual Assets
+
+This section contains all visual assets supporting the dashboard analysis. Each image and video is labeled for easy reference.
+
+---
+
+*Fig 1 – Dashboard Overview*
 
 <p align="center"> <img src="images/dashboard_full_overview.jpeg" width="900"/>
 </p>
 
+---
+
+*Fig 2 – Age Segment Insight View (45–54 and 55+ Filtered)*
+
+<p align="center">
+  <img src="images/dashboard_45+.png" width="900"/>
+</p>
+
+---
+
+*Video 1 – Dynamic Dashboard Demo*
+
+[![Watch Dashboard Demo](https://img.youtube.com/vi/ii_OXf2OFyA/0.jpg)](https://youtu.be/ii_OXf2OFyA?si=mSaDUYAxAkXX6O4U)
+
+*Note:* This video shows interactive slicer usage, age-segment filtering, and dynamic updates reflecting service gap changes.
+
+
+
 ## 🎯 Business Problem
 
-Airlines operate in a highly competitive environment where customer satisfaction directly affects retention, revenue, and brand loyalty.  
+Airlines operate in a highly competitive environment where customer satisfaction directly affects retention, revenue and brand loyalty.  
 
 This project addresses critical business questions:
 
@@ -76,7 +100,7 @@ Service gap analysis compares satisfaction vs dissatisfaction across key service
 
 ### Segment-Level Insight (Ages 45–54 and 55+)
 
-When filtering older passengers, service priorities shift:
+When filtering older passengers, service priorities shift as seen in fig2:
 
 - **Leg room comfort → 1.3**  
 - **Inflight entertainment → 1.2**  
@@ -113,12 +137,12 @@ Passenger satisfaction declines as delay duration increases, particularly for sh
 
 ---
 
-## 🧾 Strategic Recommendations
+## 🧾 Recommendations
 
 ### Experience Optimization
 
-- **Digital Experience:** Enhance online boarding, mobile app journeys, and check-in processes (priority for younger/mid-age travelers).  
-- **Cabin Comfort:** Increase leg room, improve seat ergonomics, and upgrade in-flight entertainment (priority for 45+ passengers).  
+- **Digital Experience:** Enhance online boarding, mobile app experience and check-in processes (priority for younger/mid-age travelers).  
+- **Cabin Comfort:** Increase leg room, improve seat ergonomics and upgrade in-flight entertainment (priority for 45+ passengers).  
 - **Operational Communication:** Provide real-time delay notifications to manage expectations and reduce dissatisfaction.
 
 ### Operational Strategy
@@ -150,7 +174,6 @@ Passenger satisfaction declines as delay duration increases, particularly for sh
 
 ## 👤 Author
 
-BI Analyst & Data Analytics Enthusiast  
-Focused on delivering **actionable insights and interactive dashboards** that drive business impact.
+Ezirim Micah Ndubuisi
 
 BI Analyst & Excel Dashboard Developer
